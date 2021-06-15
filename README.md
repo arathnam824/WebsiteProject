@@ -9,5 +9,3 @@ First website created for AP computer science.
 + # social links
 + twitter_username: AryanRathnam
 + github_username:  arathnam824
-
-show_excerpts: true # set to false to remove excerpts on the homepage
